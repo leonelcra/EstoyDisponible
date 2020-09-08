@@ -1,0 +1,7 @@
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Debug\WF_mouse.Form1.resources
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Debug\WF_mouse.csproj.GenerateResource.Cache
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\bin\Debug\Teams en verde.exe
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\bin\Debug\Teams en verde.pdb
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Debug\teams_en_verde.Properties.Resources.resources
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Debug\Teams en verde.exe
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Debug\Teams en verde.pdb

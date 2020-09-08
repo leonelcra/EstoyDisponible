@@ -1,0 +1,8 @@
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\bin\Release\Teams en verde.exe
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\bin\Release\Teams en verde.pdb
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Release\WF_mouse.Form1.resources
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Release\teams_en_verde.Properties.Resources.resources
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Release\WF_mouse.csproj.GenerateResource.Cache
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Release\Teams en verde.exe
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Release\Teams en verde.pdb
+c:\users\lcrainic\documents\visual studio 2017\Projects\WF_mouse\WF_mouse\obj\Release\WF_mouse.csprojResolveAssemblyReference.cache
