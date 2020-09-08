@@ -1,6 +1,6 @@
 # EstoyDisponible es una aplicación destinada a evitar el cambio de estado en MS Teams
 
-Mientras hago teletrabajo en cuarentena es normal que realice llamados telefónicos o anotaciones fuera de la computadora. Por tal motivo luego de unos pocos minutos el estado de MS Teams cambia a 'Ausente' aunque me encuentre al lado de mi computadora. Esto genera que mis colegas no me escriban pensando que no me encuentro disponible.
+Mientras hago teletrabajo en cuarentena es normal que realice llamados telefónicos o anotaciones fuera de la computadora. Por tal motivo luego de unos pocos minutos el estado de [MS Teams](https://www.microsoft.com/es-ar/microsoft-365/microsoft-teams/download-app) cambia a 'Ausente' aunque me encuentre al lado de mi computadora. Esto genera que mis colegas no me escriban pensando que no me encuentro disponible.
 Para evitar esta situación desarrollé en unos minutos esta aplicación destinada a evitar el cambio automático de estado.
 
 El código esta desarrollado en Visual Studio Community 2019 C# con Windows Forms
