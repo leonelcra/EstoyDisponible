@@ -24,7 +24,7 @@ Cuanto cuesta? Es gratis
 
 En que sistema operativo funciona ? Esta probado en windows 10
 
-No me funciona. Que hago ? Ni idea
+No me funciona. Que hago ? Ni idea. Probá ejecutarlo 'como administrador'
 
 Puedo sugerir funcionalidades ? Si, pero nunca van a ocurrir
 
